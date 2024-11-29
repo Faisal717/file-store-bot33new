@@ -34,8 +34,8 @@ DB_NAME = environ.get("DB_NAME", "Cluster0")
 
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "6850113253:AAFZ19i9K1EOOjtWY8jpQOI-iH6bBrifBCE")
-BOT_USERNAME = environ.get("BOT_USERNAME", "Roronoa_Zoro_008_Bot") # your bot username without @
+BOT_TOKEN = environ.get("BOT_TOKEN", "7150728438:AAEy6w9m76PjsiogVrmGEeFgHBNFspDmwQM")
+BOT_USERNAME = environ.get("BOT_USERNAME", "Eren_Yeager_007_Bot") # your bot username without @
 PICS = (environ.get('PICS', 'https://te.legra.ph/file/66604e5911df5a0c43ffa.jpg https://graph.org/file/f5a26ac21b060d5787ea3.jpg https://graph.org/file/30539d8f1fc92423d6a19.jpg https://graph.org/file/701ff72fb43d85e073f03.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
